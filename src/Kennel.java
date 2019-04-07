@@ -8,6 +8,9 @@ public class Kennel {
 	 */
 	public void allSpeak(){
 		/* code goes here */
+		for (int i = 0; i < petList.size(); i++) {
+			
+		}
 	}
 	
 	
